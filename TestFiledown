@@ -1,0 +1,7 @@
+# include <stdio.h>
+# inclue <math.h>
+
+void man()
+{ 
+printf("Hello world. I pray that I be good on C");
+}
